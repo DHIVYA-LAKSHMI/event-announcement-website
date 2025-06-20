@@ -49,5 +49,6 @@ The frontend is hosted using Amazon S3 as a static website. AWS Lambda handles t
 
 ---
 
-## 🗂️ Project Structure
+## 📄 [Download Project Report (PDF)](Event_Project.pdf)
+
 
