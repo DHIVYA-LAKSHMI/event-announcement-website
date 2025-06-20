@@ -49,6 +49,11 @@ The frontend is hosted using Amazon S3 as a static website. AWS Lambda handles t
 
 ---
 
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share with attribution.
+
 ## 📄 [Download Project Report (PDF)](Event_Project.pdf)
 
 
